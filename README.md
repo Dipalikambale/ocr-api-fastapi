@@ -44,6 +44,8 @@ ocr-project/
 ## API Endpoints
 
 ### Upload Image
+<img width="890" height="436" alt="image" src="https://github.com/user-attachments/assets/e08229aa-6a74-4f3c-927b-7ac52d0749cd" />
+
 
 ```http
 POST /upload
